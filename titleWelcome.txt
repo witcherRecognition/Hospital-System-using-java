@@ -1,0 +1,9 @@
+WELCOME TO......
+HOSPITAL MANAGEMENT SYSTEM
+******************
+1. Start Program 
+2. About        
+3. Instruction   
+4. Exit          
+******************
+

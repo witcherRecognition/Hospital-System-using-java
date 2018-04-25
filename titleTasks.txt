@@ -1,0 +1,12 @@
+*********************************
+       PATIENT MANAGEMENT         
+*********************************
+
+1.Add New Patient.
+2.Show Patient Information.
+3.Ward Price.
+4.Display Ward.
+5.Billing.
+6.Finance.
+7.Sorting.
+8.Back to Main Menu.

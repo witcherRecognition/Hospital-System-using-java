@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BSTree()
+comment1.params=d
+comment1.target=void\ insertNode(PatientInfo)
+comment2.params=
+comment2.target=void\ SortingPatient()
+comment3.params=n
+comment3.target=void\ SortingHelp(TreeNode)
+comment4.params=
+comment4.target=double\ TotalIncome()
+comment5.params=n\ sum
+comment5.target=double\ TotalHelp(TreeNode,\ double)
+numComments=6
